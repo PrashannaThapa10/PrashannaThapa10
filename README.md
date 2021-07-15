@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Prashanna
-- 👀 I’m interested in Machine Learning, AI, Databases
+- 👋 Hi, I’m Prashanna.
+- 👀 I’m interested in AI, Machine Learning,  Databases
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : prashannathapa10@gmail.com
